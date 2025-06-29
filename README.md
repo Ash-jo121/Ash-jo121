@@ -4,7 +4,7 @@ I am Ashish. I am a software engineer. I am from Kochi.
 
 Feel free to browse through my repos
 
-If you want to reach me drop a mail to ashishjo2000@gmail.com
+If you want to reach me drop a mail at ashishjo2000@gmail.com
 
 
 <!--
