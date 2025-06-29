@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+#I am Ashish. I am a software engineer. I am fron Kochi.
+#Feel free to browse through my repos
+
+
 <!--
 **Ash-jo121/Ash-jo121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
